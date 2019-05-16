@@ -1,0 +1,10 @@
+.idea
+*.iml
+.gradle
+*.ipr
+*.iws
+out
+# exclude data from source control by default
+/source_to_parse/
+/source_to_parse_test/
+/source_to_parse_train/
